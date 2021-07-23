@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Effective communication and making awesome products.
+- 🌱 I’m currently learning MERN Stack from Masai School
+<!-- - 👯 I’m looking to collaborate on products related to Fintech & Blockchain. -->
+- 🤔 I’m looking for help with writing responsive CSS
+<!-- - 💬 Ask me about  -->
+- 📫 How to reach me: deevanshu1997@gmail.com
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
