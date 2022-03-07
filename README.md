@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Deevanshu Kumawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
+[![GitHub dvanshukumawat](https://img.shields.io/github/followers/dvanshukumawat?label=follow&style=social)](https://github.com/dvanshukumawat)
+[![Linkedin: Deevanshu Kumawat](https://img.shields.io/badge/-Deevanshu%20Kumawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dvanshukumawat/)](https://www.linkedin.com/in/dvanshukumawat/)
+[![Twitter: Deevanshu Kumawat](https://img.shields.io/twitter/follow/dvanshukumawat?style=social)](https://twitter.com/dvanshukumawat)
+<img src="https://komarev.com/ghpvc/?username=dvanshukumawat&label=Profile%20views&color=0e75b6&style=flat" alt="dvanshukumawat" />
+[![Medium Badge](https://img.shields.io/badge/-@Deevanshu%20Kumawat-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dvanshukumawat)](https://medium.com/@dvanshukumawat)
+[![Polywork Badge](https://img.shields.io/badge/-dvanshukumawat-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/deevanshu)](http://polywork.com/deevanshu)
+  
+I develop softwares for web and build developer communities!
+
+[![Deevanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvanshukumawat&hide=issues&count_private=true&show_icons=true&theme=blue)](https://github.com/dvanshukumawat/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvanshukumawat&layout=compact&theme=blue)](https://github.com/dvanshukumawat/github-readme-stats)
+
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvanshukumawat&label=Profile%20views&color=0e75b6&style=flat" alt="dvanshukumawat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvanshukumawat" alt="dvanshukumawat" /></a> </p>
@@ -18,11 +32,11 @@
 - 💬 Ask me about **React, JavaScript, and CSS**
 
 - 📫 How to reach me **deevanshu1997@gmail.com**
-
+-->
 <!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> -->
-
+<!-- BLOG-POST-LIST:END -->
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dvanshukumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dvanshukumawat" height="30" width="40" /></a>
@@ -40,3 +54,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dvanshukumawat&show_icons=true&locale=en" alt="dvanshukumawat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dvanshukumawat&" alt="dvanshukumawat" /></p>
+-->
