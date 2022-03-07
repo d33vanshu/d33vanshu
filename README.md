@@ -5,8 +5,9 @@
 [![Linkedin: Deevanshu Kumawat](https://img.shields.io/badge/-Deevanshu%20Kumawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dvanshukumawat/)](https://www.linkedin.com/in/dvanshukumawat/)
 [![Twitter: Deevanshu Kumawat](https://img.shields.io/twitter/follow/dvanshukumawat?style=social)](https://twitter.com/dvanshukumawat)
 <img src="https://komarev.com/ghpvc/?username=dvanshukumawat&label=Profile%20views&color=0e75b6&style=flat" alt="dvanshukumawat" />
+
 [![Medium Badge](https://img.shields.io/badge/-@Deevanshu%20Kumawat-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dvanshukumawat)](https://medium.com/@dvanshukumawat)
-[![Polywork Badge](https://img.shields.io/badge/-dvanshukumawat-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/deevanshu)](http://polywork.com/deevanshu)
+[![Polywork Badge](https://img.shields.io/badge/-deevanshu-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/deevanshu)](http://polywork.com/deevanshu)
   
 I develop softwares for web and build developer communities!
 
