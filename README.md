@@ -1,29 +1,27 @@
 <h1 align="center">Hi 👋, I'm Deevanshu Kumawat</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-[![GitHub dvanshukumawat](https://img.shields.io/github/followers/dvanshukumawat?label=follow&style=social)](https://github.com/dvanshukumawat)
-[![Linkedin: Deevanshu Kumawat](https://img.shields.io/badge/-Deevanshu%20Kumawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dvanshukumawat/)](https://www.linkedin.com/in/dvanshukumawat/)
-[![Twitter: Deevanshu Kumawat](https://img.shields.io/twitter/follow/dvanshukumawat?style=social)](https://twitter.com/dvanshukumawat)
-<img src="https://komarev.com/ghpvc/?username=dvanshukumawat&label=Profile%20views&color=0e75b6&style=flat" alt="dvanshukumawat" />
-[![Medium Badge](https://img.shields.io/badge/-@Deevanshu%20Kumawat-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dvanshukumawat)](https://medium.com/@dvanshukumawat)
+[![GitHub 0xDeevanshu](https://img.shields.io/github/followers/0xDeevanshu?label=follow&style=social)](https://github.com/0xDeevanshu)
+[![Linkedin: Deevanshu](https://img.shields.io/badge/-Deevanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xDeevanshu/)](https://www.linkedin.com/in/0xDeevanshu/)
+[![Twitter: Deevanshu](https://img.shields.io/twitter/follow/0xDeevanshu?style=social)](https://twitter.com/0xDeevanshu)
+<img src="https://komarev.com/ghpvc/?username=0xDeevanshu&label=Profile%20views&color=0e75b6&style=flat" alt="0xDeevanshu" />
+[![Medium Badge](https://img.shields.io/badge/-@Deevanshu-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dvanshukumawat)](https://medium.com/@dvanshukumawat)
 [![Polywork Badge](https://img.shields.io/badge/-deevanshu-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/deevanshu)](http://polywork.com/deevanshu)
   
 I develop softwares for web and build developer communities!
 
-[![Deevanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvanshukumawat&hide=issues&count_private=true&show_icons=true&theme=blue)](https://github.com/dvanshukumawat/github-readme-stats)
+[![Deevanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xDeevanshu&hide=issues&count_private=true&show_icons=true&theme=blue)](https://github.com/0xDeevanshu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvanshukumawat&layout=compact&theme=blue)](https://github.com/dvanshukumawat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDeevanshu&layout=compact&theme=blue)](https://github.com/0xDeevanshu/github-readme-stats)
 
 <!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dvanshukumawat&label=Profile%20views&color=0e75b6&style=flat" alt="dvanshukumawat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xDeevanshu&label=Profile%20views&color=0e75b6&style=flat" alt="0xDeevanshu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvanshukumawat" alt="dvanshukumawat" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xDeevanshu" alt="0xDeevanshu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dvanshukumawat" target="blank"><img src="https://img.shields.io/twitter/follow/dvanshukumawat?logo=twitter&style=for-the-badge" alt="dvanshukumawat" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xDeevanshu" target="blank"><img src="https://img.shields.io/twitter/follow/0xDeevanshu?logo=twitter&style=for-the-badge" alt="0xDeevanshu" /></a> </p>
 
-- 🔭 I’m currently working on [Myntra Clone](https://github.com/imbickydutta/myntra)
-
-- 🌱 I’m currently learning **Next.js**
+- 🔭 I’m currently building [Upsurge.Club](upsurge.club)
 
 - 👨‍💻 All of my projects are available at [deevanshu.dev](deevanshu.dev)
 
