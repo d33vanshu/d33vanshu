@@ -10,9 +10,9 @@
   
 I develop softwares for web and build developer communities!
 
-[![Deevanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xDeevanshu&hide=issues&count_private=true&show_icons=true&theme=blue)](https://github.com/xDeevanshu/github-readme-stats)
+[![Deevanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xDeevanshu&hide=issues&count_private=true&show_icons=true&theme=blue)](https://github.com/xDeevanshu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDeevanshu&layout=compact&theme=blue)](https://github.com/xDeevanshu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDeevanshu&layout=compact&theme=blue)](https://github.com/xDeevanshu/github-readme-stats)
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xDeevanshu&label=Profile%20views&color=0e75b6&style=flat" alt="0xDeevanshu" /> </p>
