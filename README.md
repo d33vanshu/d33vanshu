@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Deevanshu Kumawat</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-[![GitHub 0xDeevanshu](https://img.shields.io/github/followers/0xDeevanshu?label=follow&style=social)](https://github.com/0xDeevanshu)
-[![Linkedin: Deevanshu](https://img.shields.io/badge/-Deevanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xDeevanshu/)](https://www.linkedin.com/in/0xDeevanshu/)
-[![Twitter: Deevanshu](https://img.shields.io/twitter/follow/0xDeevanshu?style=social)](https://twitter.com/0xDeevanshu)
-<img src="https://komarev.com/ghpvc/?username=0xDeevanshu&label=Profile%20views&color=0e75b6&style=flat" alt="0xDeevanshu" />
+[![GitHub d33vanshu](https://img.shields.io/github/followers/d33vanshu?label=follow&style=social)](https://github.com/d33vanshu)
+[![Linkedin: Deevanshu](https://img.shields.io/badge/-Deevanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/d33vanshu/)](https://www.linkedin.com/in/d33vanshu/)
+[![Twitter: Deevanshu](https://img.shields.io/twitter/follow/d33vanshu?style=social)](https://twitter.com/d33vanshu)
+<img src="https://komarev.com/ghpvc/?username=d33vanshu&label=Profile%20views&color=0e75b6&style=flat" alt="d33vanshu" />
 [![Medium Badge](https://img.shields.io/badge/-@Deevanshu-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dvanshukumawat)](https://medium.com/@dvanshukumawat)
 [![Polywork Badge](https://img.shields.io/badge/-deevanshu-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/deevanshu)](http://polywork.com/deevanshu)
   
 I develop softwares for web and build developer communities!
 
-[![Deevanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xDeevanshu&hide=issues&count_private=true&show_icons=true&theme=blue)](https://github.com/xDeevanshu/github-readme-stats)
+[![Deevanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d33vanshu&hide=issues&count_private=true&show_icons=true&theme=blue)](https://github.com/d33vanshu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDeevanshu&layout=compact&theme=blue)](https://github.com/xDeevanshu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d33vanshu&layout=compact&theme=blue)](https://github.com/d33vanshu/github-readme-stats)
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xDeevanshu&label=Profile%20views&color=0e75b6&style=flat" alt="0xDeevanshu" /> </p>
